@@ -1,0 +1,10 @@
+#Greenfoot properties
+#Sun May 24 23:46:48 EDT 2015
+class.Correct.superclass=greenfoot.Actor
+project.charset=UTF-8
+version=2.7.1
+class.QandAWorld.superclass=greenfoot.World
+class.Question.superclass=greenfoot.Actor
+world.lastInstantiated=QandAWorld
+class.Incorrect.superclass=greenfoot.Actor
+class.Answer.superclass=greenfoot.Actor
